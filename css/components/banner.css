@@ -1,0 +1,36 @@
+.banner{
+    background-image: url("../../images/montagne.jpg");
+    background-position: 30%;
+    height: 70vh;
+    padding-left: 190px;
+    padding-top: 50px;
+    margin-bottom: 60px;
+}
+
+.banner h1{
+    width:70%;
+}
+
+
+.banner h4{
+    margin-bottom:40px;
+}
+
+.inner-banner{
+    display: flex;
+    height:600px;
+    align-items: center;
+    background-color:#161d2c;
+    color:#c7d4db;
+}
+
+.inner-banner > img{
+    height:100%;
+}
+
+p{
+    margin:0;
+    padding-left:30px;
+    font-weight: lighter;
+    line-height: 3;
+}

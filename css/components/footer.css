@@ -1,0 +1,9 @@
+footer{
+    background-color:#dde6e7;
+    margin:0;
+    padding:30px;
+}
+.list-inline{
+    list-style: none;
+    padding-left: 0px;
+  }
